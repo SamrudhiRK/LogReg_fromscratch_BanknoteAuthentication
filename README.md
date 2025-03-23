@@ -30,19 +30,6 @@ Install the required dependencies before running the notebook:
 pip install numpy pandas matplotlib
 ```
 
-## How to Run the Project  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/SamrudhiRK/LogReg_fromscratch_BanknoteAuthentication.git
-   ```
-2. Navigate to the project folder:  
-   ```bash
-   cd logistic-regression-banknotes
-   ```
-3. Run the Jupyter Notebook:  
-   ```bash
-   jupyter notebook logreg_banknotes.ipynb
-   ```
 ## Results & Insights  
 - **Logistic Regression successfully classifies banknotes** with high accuracy.  
 - **Gradient Descent** optimizes the model for better predictions.  
